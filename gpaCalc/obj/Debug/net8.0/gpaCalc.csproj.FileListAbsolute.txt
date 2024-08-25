@@ -1,0 +1,14 @@
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\bin\Debug\net8.0\gpaCalc.exe
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\bin\Debug\net8.0\gpaCalc.deps.json
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\bin\Debug\net8.0\gpaCalc.runtimeconfig.json
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\bin\Debug\net8.0\gpaCalc.dll
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\bin\Debug\net8.0\gpaCalc.pdb
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\obj\Debug\net8.0\gpaCalc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\obj\Debug\net8.0\gpaCalc.AssemblyInfoInputs.cache
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\obj\Debug\net8.0\gpaCalc.AssemblyInfo.cs
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\obj\Debug\net8.0\gpaCalc.csproj.CoreCompileInputs.cache
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\obj\Debug\net8.0\gpaCalc.dll
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\obj\Debug\net8.0\refint\gpaCalc.dll
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\obj\Debug\net8.0\gpaCalc.pdb
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\obj\Debug\net8.0\gpaCalc.genruntimeconfig.cache
+c:\Users\zionh\GitHub\gpaCalc\gpaCalc\obj\Debug\net8.0\ref\gpaCalc.dll

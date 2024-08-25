@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zionh\\GitHub\\gpaCalc\\gpaCalc\\gpaCalc.csproj": {}
+    "c:\\Users\\zionh\\GitHub\\gpaCalc\\gpaCalc\\gpaCalc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zionh\\GitHub\\gpaCalc\\gpaCalc\\gpaCalc.csproj": {
+    "c:\\Users\\zionh\\GitHub\\gpaCalc\\gpaCalc\\gpaCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zionh\\GitHub\\gpaCalc\\gpaCalc\\gpaCalc.csproj",
+        "projectUniqueName": "c:\\Users\\zionh\\GitHub\\gpaCalc\\gpaCalc\\gpaCalc.csproj",
         "projectName": "gpaCalc",
-        "projectPath": "C:\\Users\\zionh\\GitHub\\gpaCalc\\gpaCalc\\gpaCalc.csproj",
+        "projectPath": "c:\\Users\\zionh\\GitHub\\gpaCalc\\gpaCalc\\gpaCalc.csproj",
         "packagesPath": "C:\\Users\\zionh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zionh\\GitHub\\gpaCalc\\gpaCalc\\obj\\",
+        "outputPath": "c:\\Users\\zionh\\GitHub\\gpaCalc\\gpaCalc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zionh\\AppData\\Roaming\\NuGet\\NuGet.Config"
